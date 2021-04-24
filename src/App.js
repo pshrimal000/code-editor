@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   return (
-    <Router basename="/code-editor">
+    <Router basename="/code-editorr">
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/web" component={WebEditor} />
