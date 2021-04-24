@@ -30,7 +30,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://pshrimal000.github.io/code-editor/",
+  "homepage": "https://pshrimal000.github.io/code-editorr/",
   "eslintConfig": {
     "extends": [
       "react-app",
